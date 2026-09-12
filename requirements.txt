@@ -1,5 +1,6 @@
-pandas
 numpy
+pandas
+matplotlib
 scikit-learn
 nltk
 gensim
